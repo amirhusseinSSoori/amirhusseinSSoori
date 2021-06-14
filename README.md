@@ -1,6 +1,7 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&count_private=true)
 <!--
+https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true)
 **amirhusseinSSoori/amirhusseinSSoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
