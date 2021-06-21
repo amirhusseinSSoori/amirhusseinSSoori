@@ -1,4 +1,6 @@
 ![banner](https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg)
+# Android - Clean Architecture - Kotlin [![Build Status](https://travis-ci.org/android10/Android-CleanArchitecture-Kotlin.svg?branch=main)](https://travis-ci.org/android10/Android-CleanArchitecture-Kotlin) [![codecov](https://codecov.io/gh/android10/Android-CleanArchitecture-Kotlin/branch/main/graph/badge.svg?token=x1AtDcNuDv)](https://codecov.io/gh/android10/Android-CleanArchitecture-Kotlin)
+The purpose of this repo is to follow up Clean Architecture principles by bringing them to Android. It is worth saying that the idea is to take advantage of the Kotlin Programming Language features plus also pull in lessons learned and ideas from other interesting approaches like Functional Programming.
 <!--
 https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true)
 **amirhusseinSSoori/amirhusseinSSoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
