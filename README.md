@@ -1,4 +1,3 @@
-### Hi there 👋
 ![banner](https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg)
 <!--
 https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true)
