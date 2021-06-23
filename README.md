@@ -1,5 +1,14 @@
 ![banner](https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg)
 
+<details>
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="AmirHussein soori GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true&hide_border=true" />
+</details>
+<details>
+  <summary>Most Used Languages</summary>
+  <img align="left" alt="AmirHussein soori GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhusseinSSoori&hide_border=true" />
+</details>
+
 <!--
 https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true)
 **amirhusseinSSoori/amirhusseinSSoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
