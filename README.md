@@ -1,3 +1,26 @@
-![Stats](https://raw.githubusercontent.com/amirhusseinSSoori/GitStats/master/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/amirhusseinSSoori/GitStats/master/generated/languages.svg)
+![banner](https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg)
 
+<details>
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="AmirHussein soori GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true&hide_border=true" />
+</details>
+<details>
+  <summary>Most Used Languages</summary>
+  <img align="left" alt="AmirHussein soori GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhusseinSSoori&hide_border=true" />
+</details>
+
+<!--
+https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true)
+**amirhusseinSSoori/amirhusseinSSoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&count_private=true&theme=flag-india)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
