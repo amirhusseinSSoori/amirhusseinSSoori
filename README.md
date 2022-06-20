@@ -1,4 +1,4 @@
-[banner](https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg)
+![banner](https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg)
 <details>z
   <summary>GitHub Stats</summary>
   <img align="left" alt="AmirHussein soori GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amirhusseinSSoori&show_icons=true&hide_border=true" />
