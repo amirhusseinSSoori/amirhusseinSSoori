@@ -1,4 +1,4 @@
-![banner](https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg)
+![banner]([https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg](https://www.hiddenbrains.com/blog/wp-content/uploads/2018/06/Building-Applications-with-Kotlin-min.jpg))
 
 <details>
   <summary>GitHub Stats</summary>
